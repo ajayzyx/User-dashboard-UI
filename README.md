@@ -46,6 +46,7 @@ Reuse the dashboard layout for other apps
 
 user-dashboard-ui/
 ├── src/
+
 │   ├── components/   # Reusable components
 
 │   ├── pages/        # Dashboard pages
