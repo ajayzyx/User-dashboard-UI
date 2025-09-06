@@ -46,12 +46,19 @@ Reuse the dashboard layout for other apps
 
 user-dashboard-ui/
 ├── src/
+
 │   ├── components/   # Reusable components
+
 │   ├── pages/        # Dashboard pages
+
 │   ├── App.jsx       # Main App
+
 │   └── index.css     # Tailwind styles
+
 ├── public/           # Static assets
+
 ├── vite.config.js    # Vite config with alias
+
 └── package.json
 
 📜 License
