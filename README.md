@@ -27,6 +27,7 @@ This template is designed for quickly building **dashboard-based pages** and can
 
 ### 1. Clone the repo
 git clone https://github.com/YOUR-USERNAME/user-dashboard-ui.git
+
 cd user-dashboard-ui
 ### 2. Install dependencies
 npm install
